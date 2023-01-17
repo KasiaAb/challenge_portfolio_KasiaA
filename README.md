@@ -27,3 +27,5 @@ Interfejs aplikacji jest czytelny, pomaga to, że jest aplikacja nie ma wielu op
 Aplikacja jest w miarę intuicyjna, łatwo odnaleźć jej funkcjonalności i z nich skorzystać... kiedy już wiadomo, o co w ogóle w niej chodzi.
 <br /><br />
 Według mnie błędem jest, że w formularzu gracza nie ma ograniczeń co do wpisywanych znaków i wartości. Zawodnik może mieć wzrost na minusie, adres e-mail wcale nie musi być e-mailem itd.
+<h2>Subtask 5</h>
+https://katarzyna123.atlassian.net/jira/core/projects/CPK/board
